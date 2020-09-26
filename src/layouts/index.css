@@ -34,7 +34,7 @@ a{
   animation-duration: 3s;
   animation-delay: 0.75s;
   animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+  animation-timing-function: cubic-bezier(0.216, 0.610, 0.355, 1);
 }
 .Hero p {
   color: rgba(255, 255, 255, 0.8);
